@@ -11,3 +11,4 @@ const Xasan = () => {
 export default Xasan
 
 // git merge branchni nomi yoziladi va keyin codini oladi
+// git branch -b branch yaratadi va o'tkazadi
