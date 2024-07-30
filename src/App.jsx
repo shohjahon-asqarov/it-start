@@ -3,6 +3,7 @@ import Shohjahon from './component/Shohjahon'
 import Kamron from './component/Kamron'
 import Xasan from './component/Xasan'
 import Navbar from './component/Navbar'
+import Hero from './component/Hero'
 
 const App = () => {
   return (
@@ -11,6 +12,7 @@ const App = () => {
       <Shohjahon />
       <Kamron />
       <Xasan />
+      <Hero />
     </div>
   )
 }
