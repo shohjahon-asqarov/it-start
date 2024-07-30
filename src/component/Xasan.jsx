@@ -14,3 +14,4 @@ export default Xasan
 // git branch -b branch yaratadi va o'tkazadi
 // git branch -d branchni o'chiradi 
 // git branch -v oxirgi commit ni ko'rsatadi
+// git branch -r serverni ko'rsatadi
